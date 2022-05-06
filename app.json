@@ -1,5 +1,5 @@
 {
-  "name": "book-store",
+  "name": "rco-book-store",
   "buildpacks": [
     {
       "url": "heroku/gradle"
